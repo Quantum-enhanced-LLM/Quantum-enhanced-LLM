@@ -93,6 +93,8 @@ bash install_repos.sh qllm
 .\install_repos.ps1 -CondaEnvName qllm
 ```
 
+The expected installation time is 5-10 minutes.
+
 ### 4. Configure and Run Training
 
 It's good practice to create a separate working directory to keep generated files organized.
